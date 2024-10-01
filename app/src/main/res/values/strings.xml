@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SpeechToTextRecognition</string>
+    <string name="app_heading">Speech-To-Text</string>
+    <string name="start_recoding">Start Recording</string>
+    <string name="play_record">Play Record</string>
+    <string name="stop_play">Stop Playing</string>
+    <string name="converted_text">Converted Text</string>
+</resources>
